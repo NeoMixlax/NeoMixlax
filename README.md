@@ -4,9 +4,6 @@
 - Studying Software engineering at [UIS](https://uis.edu.co/inicio/):green_heart:
 - I´m looking for learning about cyber-securyty and Web3 development :lock::monkey:
 - Currently learning everything :seedling:
-<center> ╔══════━━━━━───── • ─────━━━━━══════╗ </center>
-<center> _Let´s make something great together_ </center>
-<center> ╚══════━━━━━───── • ─────━━━━━══════╝ </center>
 
 ### Connect with me:
 
