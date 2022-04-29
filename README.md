@@ -19,7 +19,7 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/nicoram004/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/nicoram004/#gh-dark-mode-only)
 
----
+
 I´m a passionate about knowledge, innovation and learning . Let me know if you want to make someting that matters :wink:
 
 [twitter]: https://twitter.com/mixlax004
