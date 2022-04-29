@@ -10,7 +10,8 @@
 
 ### Connect with me:
 
-[![website](<a target="_blank" href="https://icons8.com/icon/60014/twitter">Twitter</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>)](https://twitter.com/mixlax004#gh-light-mode-only)
+[![website](![icons8-twitter](https://user-images.githubusercontent.com/78362553/165872425-708d7177-027c-47e4-9f6c-9975fe7c12b0.svg)
+)](https://twitter.com/mixlax004#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/mixlax004#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nicolás-ramírez-1b45a7205/#gh-light-mode-only)
