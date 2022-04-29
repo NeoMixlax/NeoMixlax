@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![website](twitter.svg)](https://twitter.com/mixlax004#gh-light-mode-only)
+[![website](/Downloads/twitter.svg)](https://twitter.com/mixlax004#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/mixlax004#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nicolás-ramírez-1b45a7205/#gh-light-mode-only)
