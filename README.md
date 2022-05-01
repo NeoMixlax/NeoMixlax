@@ -26,7 +26,7 @@
 </details>
 
 
-I´m a passionate about knowledge, innovation and learning . Let me know if you want to make someting that matters :wink:
+I´m a passionate about knowledge, innovation and learning. Let me know if you want to make someting that matters :wink:
 
 [twitter]: https://twitter.com/mixlax004
 [instagram]: https://www.instagram.com/nicoram004/
