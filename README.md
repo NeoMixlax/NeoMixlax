@@ -1,7 +1,7 @@
 # :computer: </c0d1ng t1me/> :computer:
 ## About me
 - Currently working at Findnice:airplane:
-- Studying Software engineering at [UIS](https://uis.edu.co/inicio/):green_heart:
+- Studying Systems engineering at [UIS](https://uis.edu.co/inicio/):green_heart:
 - I´m looking for learning about cyber-securyty and Web3 development :lock::monkey:
 - Currently learning everything :seedling:
 
